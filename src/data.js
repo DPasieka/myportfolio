@@ -24,6 +24,13 @@ export default
                 imageSrc: "https://i.imgur.com/3qf1Ryg.jpg",
                 url: 'https://github.com/DPasieka/Analysis-of-spheroid'
             },
+            {
+                id: 3,
+                title: 'Project Three',
+                service: 'Restaurant Website Sample',
+                imageSrc: "https://i.imgur.com/ZHbj66q.jpg",
+                url: 'https://github.com/DPasieka/Restaurant-sample-website'
+            },
             
         ],
         social: [
